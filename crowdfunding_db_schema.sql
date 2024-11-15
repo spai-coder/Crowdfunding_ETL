@@ -37,7 +37,5 @@ CONSTRAINT "primary_campaign" PRIMARY KEY("cf_id")
 );
 
 ALTER TABLE "campaign" ADD CONSTRAINT "foreign_camp_contact_id" FOREIGN KEY("contact_id") REFERENCES "contacts"("contact_id");
-
 ALTER TABLE "campaign" ADD CONSTRAINT "foreign_camp_category_id" FOREIGN KEY("category_id") REFERENCES "category"("category_id");
-
 ALTER TABLE "campaign" ADD CONSTRAINT "foreign_camp_subcategory_id" FOREIGN KEY("subcategory_id") REFERENCES "subcategory"("subcategory_id");

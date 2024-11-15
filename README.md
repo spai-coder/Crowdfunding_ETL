@@ -48,9 +48,9 @@ crowdfunding_db_schema.sql -- Schema used to create the Crowdfunding_db Database
 
 The ERD highlights the relationships between:
 
-1.	Campaign and Contacts – The contact id serves as the linking element between the Campaign and Contacts entities, enabling the identification of which contacts are associated with a particular campaign. 
-2.	Campaign and category – The category id links the Campaign and category. 
-3.	Campaign and Subcategory – The subcategory id connects the Campaign to a subcategory. 
+- Campaign and Contacts – The contact id serves as the linking element between the Campaign and Contacts entities, enabling the identification of which contacts are associated with a particular campaign. 
+- Campaign and category – The category id links the Campaign and category. 
+- Campaign and Subcategory – The subcategory id connects the Campaign to a subcategory. 
 
 
 This diagram is essential for understanding the structure of the database and the connections between tables.

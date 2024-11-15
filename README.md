@@ -31,8 +31,8 @@ Option 1 was used to create the Contacts DataFrame by using Python dictionary me
 - Import the contacts.xlsx file into a DataFrame.
 - Iterate through the DataFrame, converting each row to a dictionary.
 - Iterate through each dictionary, doing the following:
-- Extract the dictionary values from the keys by using a Python list comprehension.
-- Add the values for each row to a new list.
+ Extract the dictionary values from the keys by using a Python list comprehension.
+ Add the values for each row to a new list.
 
 **Step 3: Load Data - Python libraries like SQLAlchemy or pandas for CSV outputs.
 Creating dataframes below. 

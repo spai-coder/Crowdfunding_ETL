@@ -45,4 +45,7 @@ Database Schema:
 crowdfunding_db_schema.sql -- Schema used to create the Crowdfunding_db Database to finalize the ETL process. Imported tables from CSV files created from Jupyter Notebook.
 
 ERD (Entity relationship Diagram)
-![Crowdfunding_ERD](https://github.com/user-attachments/assets/1fd5edf8-0243-4335-afeb-6c8449be5d50)
+![Crowdfunding_ERD](https://github.com/user-attachments/assets/0ef2e29a-c2e9-4bc8-8697-4dec91fbbe0a)
+
+
+

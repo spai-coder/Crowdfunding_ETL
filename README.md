@@ -3,8 +3,8 @@
 Team members: Jenique Fahie, Sofia Pai, Prachi Patel
 
 Project Overview:The ETL mini project
-Build an ETL pipeline using Python/Pandas.
-Using either Python dictionary methods or regular expressions to extract and transform the data.
+Build an ETL pipeline using Python/Pandas,
+using either Python dictionary methods or regular expressions to extract and transform the data.
 After transforming the data, four CSV files will be created and use to create an ERD and a table schema. 
 Finally, upload the CSV file data into a Postgres database.
 

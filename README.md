@@ -5,7 +5,7 @@ Team members: Jenique Fahie, Sofia Pai, Prachi Patel
 ## Project Overview:The ETL mini project
 - Build an ETL pipeline using Python/Pandas,
 using either Python dictionary methods or regular expressions to extract and transform the data.
-- After transforming the data, four CSV files will be created and use to create an ERD and a table schema. 
+- After transforming the data, four CSV files will be created and used to create an ERD and a table schema. 
 - Finally, upload the CSV file data into a Postgres database.
 
 Data Sources:
@@ -44,7 +44,7 @@ Creating dataframes below.
 Database Schema:
 crowdfunding_db_schema.sql -- Schema used to create the Crowdfunding_db Database to finalize the ETL process. Imported tables from CSV files created from Jupyter Notebook.
 
-#Conclusion: 
+## Conclusion: 
 
 The ERD highlights the relationships between:
 - Campaign and contacts with contact id

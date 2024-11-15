@@ -44,6 +44,8 @@ Creating dataframes below.
 Database Schema:
 crowdfunding_db_schema.sql -- Schema used to create the Crowdfunding_db Database to finalize the ETL process. Imported tables from CSV files created from Jupyter Notebook.
 
+Conclusion: 
+
 The ERD highlights the relationships between:
 - Campaign and contacts with contact id
 - Campaign and category with category id

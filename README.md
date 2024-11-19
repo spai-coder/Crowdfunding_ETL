@@ -57,7 +57,8 @@ This diagram is essential for understanding the structure of the database and th
 
 ERD (Entity relationship Diagram)
 
-![Crowdfunding_ERD](https://github.com/user-attachments/assets/0ef2e29a-c2e9-4bc8-8697-4dec91fbbe0a)
+![schema](https://github.com/user-attachments/assets/f633580f-4e83-4e14-901c-5e96496614c5)
+
 
 
 
